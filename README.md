@@ -1,19 +1,6 @@
-# ivrapp
+# Introduction
+This project is motivated by the combination of the latest advances in technology, including natural language processing and artificial intelligence. Our system wants to become a reliable healthcare partner rather than just a transactional platform. Our project aims to improve the healthcare industry by providing individualized recommendations that promote general well-being and encouraging user-friendly chatbot engagements. We cordially encourage you to embark with us on this revolutionary journey toward a future in which healthcare is deeply individualized, user-centered, and not only efficient. With this paradigm change, a new era of easily available and effective healthcare solutions begins.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 ## Application Implementation :
 <img src="https://github.com/ParthWande/Team_Khanaa_Khazaana/assets/110710412/6e3d6c59-ab5b-498c-800e-389a5275a20d" width="300" height="600">
